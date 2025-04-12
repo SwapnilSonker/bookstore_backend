@@ -1,0 +1,13 @@
+{
+  "users": [
+    {
+      "id": "abf12bd2-2387-42cb-b576-22fc930c55f4",
+      "name": "John Doe",
+      "mobile": "1234567890",
+      "email": "john@example.com",
+      "password": "password123",
+      "role": "owner",
+      "createdAt": "2025-04-12T10:14:55.809Z"
+    }
+  ]
+}

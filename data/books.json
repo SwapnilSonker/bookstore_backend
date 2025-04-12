@@ -1,0 +1,17 @@
+{
+  "books": [
+    {
+      "id": "4e959fdf-cad4-4ed5-b579-b3ed98fb50ac",
+      "title": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "genre": "Fiction",
+      "location": "New York",
+      "contactInfo": "john@example.com",
+      "ownerId": "abf12bd2-2387-42cb-b576-22fc930c55f4",
+      "ownerName": "John Doe",
+      "isAvailable": true,
+      "createdAt": "2025-04-12T10:18:07.923Z",
+      "updatedAt": "2025-04-12T10:18:07.923Z"
+    }
+  ]
+}
