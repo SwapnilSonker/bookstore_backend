@@ -8,6 +8,24 @@
       "password": "password123",
       "role": "owner",
       "createdAt": "2025-04-12T10:14:55.809Z"
+    },
+    {
+      "id": "a3ec6043-4315-49d2-8780-8807f509b65f",
+      "name": "Swapnil Sonker",
+      "mobile": "06392672691",
+      "email": "swapnilsonker04@gmail.com",
+      "password": "swapnil",
+      "role": "seeker",
+      "createdAt": "2025-04-12T18:06:49.073Z"
+    },
+    {
+      "id": "f7c824ee-a3cc-4931-b031-9d5bd3ee03e9",
+      "name": "indrunil sonker",
+      "mobile": "8737847831",
+      "email": "indrunil@gmail.com",
+      "password": "indrunil",
+      "role": "owner",
+      "createdAt": "2025-04-12T18:17:30.819Z"
     }
   ]
 }
